@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">How to Avoid Covid-19</string>
+    <string name="tittle">In this app, there are 4 tips to avoid Covid-19</string>
+    <string name="move_activity1">Make your Body Healthy</string>
+    <string name="move_activity2">Wash your hands properly</string>
+    <string name="move_activity3">Always use mask when you go outside</string>
+    <string name="move_activity4">Healthy lifestyle in my opinion</string>
+    <string name="healthy_body">Instead of trying to upgrade your
+        health with a huge makeover, try these nine small,
+        practically painless moves instead for long-lasting results.</string>
+    <string name="healthy_first">1. Plate your meals backward</string>
+    <string name="healthy_second">2. Put your food away when you’re done serving yourself</string>
+    <string name="healthy_third">3. Drink a glass of water before each meal</string>
+    <string name="healthy_fourth">4. To double down on the mindfulness, chew each bite thoroughly before swallowing</string>
+    <string name="healthy_fifth">5. Call food “healthy” and “less healthy” instead of “good” and “bad.”</string>
+    <string name="healthy_sixth">6. For every hour you spend sitting, get up and walk briskly for five minutes</string>
+    <string name="healthy_seventh">7. And if some types of exercise feel dreadful to you, do something else</string>
+    <string name="healthy_eighth">8. Ease yourself into getting more sleep with five-minute increments</string>
+    <string name="healthy_ninth">9. Every time you make a new goal, break it up into bite-sized chunks</string>
+    <string name="wash_hands1">During a global pandemic, one of the cheapest,
+        easiest, and most important ways to prevent the spread of a virus is to wash
+        your hands frequently with soap and water.</string>
+    <string name="wash_hands2">How do I wash hands properly ?</string>
+    <string name="wash_hands3">To eliminate all traces of the virus on your hands,
+        a quick scrub and a rinse won’t cut it. Below is a step-by-step
+        process for effective handwashing</string>
+    <string name="wash_hands_step1">1. Wet hands with running water</string>
+    <string name="wash_hands_step2">2. Apply enough soap to cover wet hands</string>
+    <string name="wash_hands_step3">3. Scrub all surfaces of the hands –
+        including back of hands, between fingers and under nails – for at least 20 seconds</string>
+    <string name="wash_hands_step4">4. Rinse thoroughly with running water</string>
+    <string name="wash_hands_step5">5. Dry hands with a clean cloth or single-use towel</string>
+    <string name="why_wear_a_mask1">Why we must wear a mask when we go outside ?</string>
+    <string name="why_wear_a_mask2">1. CDC recommends that people wear masks in public
+        settings and when around people who don’t live in your household, especially
+        when other social distancing measures are difficult to maintain</string>
+    <string name="why_wear_a_mask3">2. Masks may help prevent people who have COVID-19 from spreading
+        the virus to others</string>
+    <string name="why_wear_a_mask4">3. Masks are most likely to reduce the spread of
+        COVID-19 when they are widely used by people in public settings</string>
+    <string name="healthy_lifestyle">In my opinion, there are 3 ways to do the healthy lifestyle</string>
+    <string name="healthy_lifestyle2">1. Do the exercise every morning</string>
+    <string name="healthy_lifestyle3">2. Always eat nutrious food, like fruit, vegetables, etc.</string>
+    <string name="healthy_lifestyle4">3. Rest and sleep regularly</string>
+
+</resources>
